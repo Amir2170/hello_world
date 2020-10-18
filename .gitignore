@@ -1,0 +1,6 @@
+
+Pipfile
+Pipfile.lock
+geckodriver.log
+db.sqlite3 
+
